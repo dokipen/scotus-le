@@ -1,0 +1,1283 @@
+# https://en.wikipedia.org/wiki/List_of_Justices_of_the_Supreme_Court_of_the_United_States manual scrape.
+{{start U.S. judgeship| justice=Y}}
+{{U.S. judgeship row
+  |index=1
+  |name=<span style="display:none">Jay, John</span>[[John Jay]]†
+  |state=[[New York|NY]]
+  |borndied=<span style="display:none">17451212</span>1745–1829
+  |term=<span style="display:none">17890926</span>1789–1795<br><small>({{Age in years|1789|1795}} years)</small>
+  |chief term=<span style="display:none">17890926</span>1789–1795
+  |senior term=—
+  |appointer=[[George Washington|Washington]]
+  |termination=Resignation
+  |rowcolor=#FEF1B5
+}}
+{{U.S. judgeship row
+  |index=2
+  |name=<span style="display:none">Rutledge, John</span>[[John Rutledge]]
+  |state=[[South Carolina|SC]]
+  |borndied=<span style="display:none">17390918</span>1739–1800
+  |term=<span style="display:none">17900215</span>1789–1791<br><small>({{Age in years|1789|1791}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[George Washington|Washington]]
+  |termination=Resignation<ref group=n name=RutlegeHughes>Was later reappointed as chief justice</ref>
+}}
+{{U.S. judgeship row
+  |index=3
+  |name=<span style="display:none">Cushing, William</span>[[William Cushing]]
+  |state=[[Massachusetts|MA]]
+  |borndied=<span style="display:none">17320301</span>1732–1810
+  |term=<span style="display:none">17900202</span>1789–1810<br><small>({{Age in years|1789|1810}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[George Washington|Washington]]
+  |termination=Death
+}}
+{{U.S. judgeship row
+  |index=4
+  |name=<span style="display:none">Wilson, James</span>[[James Wilson]]
+  |state=[[Pennsylvania|PA]]
+  |borndied=<span style="display:none">17420914</span>1742–1798
+  |term=<span style="display:none">17891005</span>1789–1798<br><small>({{Age in years|1789|1798}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[George Washington|Washington]]
+  |termination=Death
+}}
+{{U.S. judgeship row
+  |index=5
+  |name=<span style="display:none">Blair, John</span>[[John Blair, Jr.]]
+  |state=[[Virginia|VA]]
+  |borndied=<span style="display:none">17320000<</span>1732–1800
+  |term=<span style="display:none">17900202</span>1789–1795<br><small>({{Age in years|1789|1795}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[George Washington|Washington]]
+  |termination=Resignation
+}}
+{{U.S. judgeship row
+  |index=6
+  |name=<span style="display:none">Iredell, James</span>[[James Iredell]]
+  |state=[[North Carolina|NC]]
+  |borndied=<span style="display:none">17511005</span>1751–1799
+  |term=<span style="display:none">17900512</span>1790–1799<br><small>({{Age in years|1790|1799}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[George Washington|Washington]]
+  |termination=Death
+}}<includeonly>
+{{end U.S. judgeship}}
+</includeonly></onlyinclude>
+{{U.S. judgeship row
+  |index=7
+  |name=<span style="display:none">Johnson, Thomas</span>[[Thomas Johnson (jurist)|Thomas Johnson]]*
+  |state=[[Maryland|MD]]
+  |borndied=<span style="display:none">17321104</span>1732–1819
+  |term=<span style="display:none">17920806</span>1792–1793<br><small>({{Age in years|1792|1793}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[George Washington|Washington]]
+  |termination=Resignation
+}}
+{{U.S. judgeship row
+  |index=8
+  |name=<span style="display:none">Paterson, William</span>[[William Paterson (judge)|William Paterson]]
+  |state=[[New Jersey|NJ]]
+  |borndied=<span style="display:none">17451224</span>1745–1806
+  |term=<span style="display:none">17930311</span>1793–1806<br><small>({{Age in years|1793|1806}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[George Washington|Washington]]
+  |termination=Death
+}}
+{{U.S. judgeship row
+  |index=2
+  |name=<span style="display:none">Rutledge, John</span>[[John Rutledge]]*†
+  |state=[[South Carolina|SC]]
+  |borndied=<span style="display:none">17390918</span>1739–1800
+  |term=<span style="display:none">17950630</span>1795–1795<br><small>({{Age in years|1795|1795}} years)</small>
+  |chief term=<span style="display:none">17951228</span>1795
+  |senior term=—
+  |appointer=[[George Washington|Washington]]
+  |termination=[[John Rutledge#Chief Justice of the Supreme Court|Rejection]]
+  |rowcolor=#FEF1B5
+}}
+{{U.S. judgeship row
+  |index=9
+  |name=<span style="display:none">Chase, Samuel</span>[[Samuel Chase]]
+  |state=[[Maryland|MD]]
+  |borndied=<span style="display:none">17410417</span>1741–1811
+  |term=<span style="display:none">17960204</span>1796–1811<br><small>({{Age in years|1796|1811}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[George Washington|Washington]]
+  |termination=Death
+}}
+{{U.S. judgeship row
+  |index=10
+  |name=<span style="display:none">Ellsworth, Oliver</span>[[Oliver Ellsworth]]†
+  |state=[[Connecticut|CT]]
+  |borndied=<span style="display:none">17450429</span>1745–1807
+  |term=<span style="display:none">17960308</span>1796–1800<br><small>({{Age in years|1796|1800}} years)</small>
+  |chief term=<span style="display:none">17960308</span>1796–1800
+  |senior term=—
+  |appointer=[[George Washington|Washington]]
+  |termination=Resignation
+  |rowcolor=#FEF1B5
+}}
+{{U.S. judgeship row
+  |index=11
+  |name=<span style="display:none">Washington, Bushrod</span>[[Bushrod Washington]]
+  |state=[[Virginia|VA]]
+  |borndied=<span style="display:none">17620605</span>1762–1829
+  |term=<span style="display:none">17990204</span>1798–1829<br><small>({{Age in years|1798|1829}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[John Adams|Adams, J.]]
+  |termination=Death
+}}
+{{U.S. judgeship row
+  |index=12
+  |name=<span style="display:none">Moore, Alfred</span>[[Alfred Moore]]
+  |state=[[North Carolina|NC]]
+  |borndied=<span style="display:none">17550521</span>1755–1810
+  |term=<span style="display:none">18000421</span>1800–1804<br><small>({{Age in years|1800|1804}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[John Adams|Adams, J.]]
+  |termination=Resignation
+}}
+{{U.S. judgeship row
+  |index=13
+  |name=<span style="display:none">Marshall, John</span>[[John Marshall]]†
+  |state=[[Virginia|VA]]
+  |borndied=<span style="display:none">17550924</span>1755–1835
+  |term=<span style="display:none">18010204</span>1801–1835<br><small>({{Age in years|1801|1835}} years)</small>
+  |chief term=<span style="display:none">18010204</span>1801–1835
+  |senior term=—
+  |appointer=[[John Adams|Adams, J.]]
+  |termination=Death
+  |rowcolor=#FEF1B5
+}}
+{{U.S. judgeship row
+  |index=14
+  |name=<span style="display:none">Johnson, William</span>[[William Johnson (judge)|William Johnson]]
+  |state=[[South Carolina|SC]]
+  |borndied=<span style="display:none">17711227</span>1771–1834
+  |term=<span style="display:none">18040507</span>1804–1834<br><small>({{Age in years|1804|1834}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[Thomas Jefferson|Jefferson]]
+  |termination=Death
+}}
+{{U.S. judgeship row
+  |index=15
+  |name=<span style="display:none">Livingston, Henry Brockholst</span>[[Henry Brockholst Livingston]]
+  |state=[[New York|NY]]
+  |borndied=<span style="display:none">17571125</span>1757–1823
+  |term=<span style="display:none">18070120</span>1807–1823<br><small>({{Age in years|1807|1823}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[Thomas Jefferson|Jefferson]]
+  |termination=Death
+}}
+{{U.S. judgeship row
+  |index=16
+  |name=<span style="display:none">Todd, Thomas</span>[[Thomas Todd]]
+  |state=[[Kentucky|KY]]
+  |borndied=<span style="display:none">17650123</span>1765–1826
+  |term=<span style="display:none">18070504</span>1807–1826<br><small>({{Age in years|1807|1826}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[Thomas Jefferson|Jefferson]]
+  |termination=Death
+}}
+{{U.S. judgeship row
+  |index=17
+  |name=<span style="display:none">Duvall, Gabriel</span>[[Gabriel Duvall]]
+  |state=[[Maryland|MD]]
+  |borndied=<span style="display:none">17521206</span>1752–1844
+  |term=<span style="display:none">18111123</span>1811–1835<br><small>({{Age in years|1811|1835}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[James Madison|Madison]]
+  |termination=Resignation
+}}
+{{U.S. judgeship row
+  |index=18
+  |name=<span style="display:none">Story, Joseph</span>[[Joseph Story]]
+  |state=[[Massachusetts|MA]]
+  |borndied=<span style="display:none">17790918</span>1779–1845
+  |term=<span style="display:none">18120203</span>1812–1845<br><small>({{Age in years|1812|1845}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[James Madison|Madison]]
+  |termination=Death
+}}
+{{U.S. judgeship row
+  |index=19
+  |name=<span style="display:none">Thompson, Smith</span>[[Smith Thompson]]*
+  |state=[[New York|NY]]
+  |borndied=<span style="display:none">17680117</span>1768–1843
+  |term=<span style="display:none">18230901</span>1823–1843<br><small>({{Age in years|1823|1843}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[James Monroe|Monroe]]
+  |termination=Death
+}}
+{{U.S. judgeship row
+  |index=20
+  |name=<span style="display:none">Trimble, Robert</span>[[Robert Trimble]]
+  |state=[[Kentucky|KY]]
+  |borndied=<span style="display:none">17761117</span>1776–1828
+  |term=<span style="display:none">18260616</span>1826–1828<br><small>({{Age in years|1826|1828}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[John Quincy Adams|Adams, J. Q.]]
+  |termination=Death
+}}
+{{U.S. judgeship row
+  |index=21
+  |name=<span style="display:none">McLean, John</span>[[John McLean]]
+  |state=[[Ohio|OH]]
+  |borndied=<span style="display:none">17850311</span>1785–1861
+  |term=<span style="display:none">18300111</span>1829–1861<br><small>({{Age in years|1830|1861}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[Andrew Jackson|Jackson]]
+  |termination=Death
+}}
+{{U.S. judgeship row
+  |index=22
+  |name=<span style="display:none">Baldwin, Henry</span>[[Henry Baldwin (judge)|Henry Baldwin]]
+  |state=[[Pennsylvania|PA]]
+  |borndied=<span style="display:none">17800114</span>1780–1844
+  |term=<span style="display:none">18300118</span>1830–1844<br><small>({{Age in years|1830|1844}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[Andrew Jackson|Jackson]]
+  |termination=Death
+}}
+{{U.S. judgeship row
+  |index=23
+  |name=<span style="display:none">Wayne, James Moore</span>[[James Moore Wayne]]
+  |state=[[Georgia (U.S. state)|GA]]
+  |borndied=<span style="display:none">17900000<</span>1790–1867
+  |term=<span style="display:none">18350114</span>1835–1867<br><small>({{Age in years|1835|1867}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[Andrew Jackson|Jackson]]
+  |termination=Death
+}}
+{{U.S. judgeship row
+  |index=24
+  |name=<span style="display:none">Taney, Roger B.</span>[[Roger B. Taney]]†
+  |state=[[Maryland|MD]]
+  |borndied=<span style="display:none">17770317</span>1777–1864
+  |term=<span style="display:none">18360328</span>1836–1864<br><small>({{Age in years|1836|1864}} years)</small>
+  |chief term=<span style="display:none">18360328</span>1836–1864
+  |senior term=—
+  |appointer=[[Andrew Jackson|Jackson]]
+  |termination=Death
+  |rowcolor=#FEF1B5
+}}
+{{U.S. judgeship row
+  |index=25
+  |name=<span style="display:none">Barbour, Philip Pendleton</span>[[Philip Pendleton Barbour]]
+  |state=[[Virginia|VA]]
+  |borndied=<span style="display:none">17830525</span>1783–1841
+  |term=<span style="display:none">18360512</span>1836–1841<br><small>({{Age in years|1836|1841}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[Andrew Jackson|Jackson]]
+  |termination=Death
+}}
+{{U.S. judgeship row
+  |index=26
+  |name=<span style="display:none">Catron, John</span>[[John Catron]]
+  |state=[[Tennessee|TN]]
+  |borndied=<span style="display:none">17860000<</span>1786–1865
+  |term=<span style="display:none">18370501</span>1837–1865<br><small>({{Age in years|1837|1865}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[Andrew Jackson|Jackson]]
+  |termination=Death
+}}
+{{U.S. judgeship row
+  |index=27
+  |name=<span style="display:none">McKinley, John</span>[[John McKinley]]
+  |state=[[Alabama|AL]]
+  |borndied=<span style="display:none">17800501</span>1780–1852
+  |term=<span style="display:none">18380109</span>1837–1852<br><small>({{Age in years|1837|1852}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[Martin Van Buren|Van Buren]]
+  |termination=Death
+}}
+{{U.S. judgeship row
+  |index=28
+  |name=<span style="display:none">Daniel, Peter Vivian</span>[[Peter Vivian Daniel]]
+  |state=[[Virginia|VA]]
+  |borndied=<span style="display:none">17840424</span>1784–1860
+  |term=<span style="display:none">18420110</span>1842–1860<br><small>({{Age in years|1842|1860}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[Martin Van Buren|Van Buren]]
+  |termination=Death
+}}
+{{U.S. judgeship row
+  |index=29
+  |name=<span style="display:none">Nelson, Samuel</span>[[Samuel Nelson]]
+  |state=[[New York|NY]]
+  |borndied=<span style="display:none">17921110</span>1792–1873
+  |term=<span style="display:none">18450227</span>1845–1872<br><small>({{Age in years|1845|1872}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[John Tyler|Tyler]]
+  |termination=Retirement
+}}
+{{U.S. judgeship row
+  |index=30
+  |name=<span style="display:none">Woodbury, Levi</span>[[Levi Woodbury]]*
+  |state=[[New Hampshire|NH]]
+  |borndied=<span style="display:none">17891222</span>1789–1851
+  |term=<span style="display:none">18450923</span>1845–1851<br><small>({{Age in years|1845|1851}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[James K. Polk|Polk]]
+  |termination=Death
+}}
+{{U.S. judgeship row
+  |index=31
+  |name=<span style="display:none">Grier, Robert Cooper</span>[[Robert Cooper Grier]]
+  |state=[[Pennsylvania|PA]]
+  |borndied=<span style="display:none">17940305</span>1794–1870
+  |term=<span style="display:none">18460810</span>1846–1870<br><small>({{Age in years|1846|1870}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[James K. Polk|Polk]]
+  |termination=Retirement
+}}
+{{U.S. judgeship row
+  |index=32
+  |name=<span style="display:none">Curtis, Benjamin Robbins</span>[[Benjamin Robbins Curtis]]*
+  |state=[[Massachusetts|MA]]
+  |borndied=<span style="display:none">18091104</span>1809–1874
+  |term=<span style="display:none">18511010</span>1851–1857<br><small>({{Age in years|1851|1857}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[Millard Fillmore|Fillmore]]
+  |termination=Resignation
+}}
+{{U.S. judgeship row
+  |index=33
+  |name=<span style="display:none">Campbell, John Archibald</span>[[John Archibald Campbell]]
+  |state=[[Alabama|AL]]
+  |borndied=<span style="display:none">18110624</span>1811–1889
+  |term=<span style="display:none">18530411</span>1853–1861<br><small>({{Age in years|1853|1861}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[Franklin Pierce|Pierce]]
+  |termination=Resignation
+}}
+{{U.S. judgeship row
+  |index=34
+  |name=<span style="display:none">Clifford, Nathan</span>[[Nathan Clifford]]
+  |state=[[Maine|ME]]
+  |borndied=<span style="display:none">18030818</span>1803–1881
+  |term=<span style="display:none">18580121</span>1858–1881<br><small>({{Age in years|1858|1881}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[James Buchanan|Buchanan]]
+  |termination=Death
+}}
+{{U.S. judgeship row
+  |index=35
+  |name=<span style="display:none">Swayne, Noah Haynes</span>[[Noah Haynes Swayne]]
+  |state=[[Ohio|OH]]
+  |borndied=<span style="display:none">18041207</span>1804–1884
+  |term=<span style="display:none">18620127</span>1862–1881<br><small>({{Age in years|1862|1881}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[Abraham Lincoln|Lincoln]]
+  |termination=Retirement
+}}
+{{U.S. judgeship row
+  |index=36
+  |name=<span style="display:none">Miller, Samuel Freeman</span>[[Samuel Freeman Miller]]
+  |state=[[Iowa|IA]]
+  |borndied=<span style="display:none">18160405</span>1816–1890
+  |term=<span style="display:none">18620721</span>1862–1890<br><small>({{Age in years|1862|1890}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[Abraham Lincoln|Lincoln]]
+  |termination=Death
+}}
+{{U.S. judgeship row
+  |index=37
+  |name=<span style="display:none">Davis, David</span>[[David Davis (Supreme Court justice)|David Davis]]*
+  |state=[[Illinois|IL]]
+  |borndied=<span style="display:none">18150309</span>1815–1886
+  |term=<span style="display:none">18621210</span>1862–1877<br><small>({{Age in years|1862|1877}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[Abraham Lincoln|Lincoln]]
+  |termination=Resignation
+}}
+{{U.S. judgeship row
+  |index=38
+  |name=<span style="display:none">Field, Stephen Johnson</span>[[Stephen Johnson Field]]
+  |state=[[California|CA]]
+  |borndied=<span style="display:none">18161104</span>1816–1899
+  |term=<span style="display:none">18630520</span>1863–1897<br><small>({{Age in years|1863|1897}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[Abraham Lincoln|Lincoln]]
+  |termination=Retirement
+}}
+{{U.S. judgeship row
+  |index=39
+  |name=<span style="display:none">Chase, Salmon P.</span>[[Salmon P. Chase]]†
+  |state=[[Ohio|OH]]
+  |borndied=<span style="display:none">18080113</span>1808–1873
+  |term=<span style="display:none">18641215</span>1864–1873<br><small>({{Age in years|1864|1873}} years)</small>
+  |chief term=<span style="display:none">18641215</span>1864–1873
+  |senior term=—
+  |appointer=[[Abraham Lincoln|Lincoln]]
+  |termination=Death
+  |rowcolor=#FEF1B5
+}}
+{{U.S. judgeship row
+  |index=40
+  |name=<span style="display:none">Strong, William</span>[[William Strong (judge)|William Strong]]
+  |state=[[Pennsylvania|PA]]
+  |borndied=<span style="display:none">18080506</span>1808–1895
+  |term=<span style="display:none">18700314</span>1870–1880<br><small>({{Age in years|1870|1880}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[Ulysses S. Grant|Grant]]
+  |termination=Retirement
+}}
+{{U.S. judgeship row
+  |index=41
+  |name=<span style="display:none">Bradley, Joseph Philo</span>[[Joseph P. Bradley]]
+  |state=[[New Jersey|NJ]]
+  |borndied=<span style="display:none">18130314</span>1813–1892
+  |term=<span style="display:none">18700323</span>1870–1892<br><small>({{Age in years|1870|1892}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[Ulysses S. Grant|Grant]]
+  |termination=Death
+}}
+{{U.S. judgeship row
+  |index=42
+  |name=<span style="display:none">Hunt, Ward</span>[[Ward Hunt]]
+  |state=[[New York|NY]]
+  |borndied=<span style="display:none">18100614</span>1810–1886
+  |term=<span style="display:none">18730109</span>1873–1882<br><small>({{Age in years|1873|1882}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[Ulysses S. Grant|Grant]]
+  |termination=Retirement
+}}
+{{U.S. judgeship row
+  |index=43
+  |name=<span style="display:none">Waite, Morrison</span>[[Morrison Waite]]†
+  |state=[[Ohio|OH]]
+  |borndied=<span style="display:none">18161129</span>1816–1888
+  |term=<span style="display:none">18740304</span>1874–1888<br><small>({{Age in years|1874|1888}} years)</small>
+  |chief term=<span style="display:none">18740304</span>1874–1888
+  |senior term=—
+  |appointer=[[Ulysses S. Grant|Grant]]
+  |termination=Death
+  |rowcolor=#FEF1B5
+}}
+{{U.S. judgeship row
+  |index=44
+  |name=<span style="display:none">Harlan, John Marshall</span>[[John Marshall Harlan]]
+  |state=[[Kentucky|KY]]
+  |borndied=<span style="display:none">18330601</span>1833–1911
+  |term=<span style="display:none">18771210</span>1877–1911<br><small>({{Age in years|1877|1911}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[Rutherford B. Hayes|Hayes]]
+  |termination=Death
+}}
+{{U.S. judgeship row
+  |index=45
+  |name=<span style="display:none">Woods, William Burnham</span>[[William Burnham Woods]]
+  |state=[[Alabama|AL]]
+  |borndied=<span style="display:none">18240803</span>1824–1887
+  |term=<span style="display:none">18810105</span>1881–1887<br><small>({{Age in years|1881|1887}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[Rutherford B. Hayes|Hayes]]
+  |termination=Death
+}}
+{{U.S. judgeship row
+  |index=46
+  |name=<span style="display:none">Matthews, Stanley</span>[[Stanley Matthews (lawyer)|Stanley Matthews]]
+  |state=[[Ohio|OH]]
+  |borndied=<span style="display:none">18240721</span>1824–1889
+  |term=<span style="display:none">18810517</span>1881–1889<br><small>({{Age in years|1881|1889}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[James A. Garfield|Garfield]]
+  |termination=Death
+}}
+{{U.S. judgeship row
+  |index=47
+  |name=<span style="display:none">Gray, Horace</span>[[Horace Gray]]
+  |state=[[Massachusetts|MA]]
+  |borndied=<span style="display:none">18280324</span>1828–1902
+  |term=<span style="display:none">18820109</span>1882–1902<br><small>({{Age in years|1882|1902}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[Chester A. Arthur|Arthur]]
+  |termination=Death
+}}
+{{U.S. judgeship row
+  |index=48
+  |name=<span style="display:none">Blatchford, Samuel</span>[[Samuel Blatchford]]
+  |state=[[New York|NY]]
+  |borndied=<span style="display:none">18200309</span>1820–1893
+  |term=<span style="display:none">18820403</span>1882–1893<br><small>({{Age in years|1882|1893}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[Chester A. Arthur|Arthur]]
+  |termination=Death
+}}
+{{U.S. judgeship row
+  |index=49
+  |name=<span style="display:none">Lamar, Lucius Quintus Cincinnatus</span>[[Lucius Quintus Cincinnatus Lamar (II)|Lucius Quintus<br />Cincinnatus Lamar]]
+  |state=[[Mississippi|MS]]
+  |borndied=<span style="display:none">18250917</span>1825–1893
+  |term=<span style="display:none">18880118</span>1888–1893<br><small>({{Age in years|1888|1893}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[Grover Cleveland|Cleveland]]
+  |termination=Death
+}}
+{{U.S. judgeship row
+  |index=50
+  |name=<span style="display:none">Fuller, Melville</span>[[Melville Fuller]]†
+  |state=[[Illinois|IL]]
+  |borndied=<span style="display:none">18330211</span>1833–1910
+  |term=<span style="display:none">18881008</span>1888–1910<br><small>({{Age in years|1888|1910}} years)</small>
+  |chief term=<span style="display:none">18881008</span>1888–1910
+  |senior term=—
+  |appointer=[[Grover Cleveland|Cleveland]]
+  |termination=Death
+  |rowcolor=#FEF1B5
+}}
+{{U.S. judgeship row
+  |index=51
+  |name=<span style="display:none">Brewer, David Josiah</span>[[David Josiah Brewer]]
+  |state=[[Kansas|KS]]
+  |borndied=<span style="display:none">18370620</span>1837–1910
+  |term=<span style="display:none">18900106</span>1890–1910<br><small>({{Age in years|1890|1910}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[Benjamin Harrison|Harrison, B.]]
+  |termination=Death
+}}
+{{U.S. judgeship row
+  |index=52
+  |name=<span style="display:none">Brown, Henry Billings</span>[[Henry Billings Brown]]
+  |state=[[Michigan|MI]]
+  |borndied=<span style="display:none">18360302</span>1836–1913
+  |term=<span style="display:none">18910105</span>1891–1906<br><small>({{Age in years|1891|1906}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[Benjamin Harrison|Harrison, B.]]
+  |termination=Retirement
+}}
+{{U.S. judgeship row
+  |index=53
+  |name=<span style="display:none">Shiras, George Jr.</span>[[George Shiras, Jr.]]
+  |state=[[Pennsylvania|PA]]
+  |borndied=<span style="display:none">18320126</span>1832–1924
+  |term=<span style="display:none">18921010</span>1892–1903<br><small>({{Age in years|1892|1903}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[Benjamin Harrison|Harrison, B.]]
+  |termination=Retirement
+}}
+{{U.S. judgeship row
+  |index=54
+  |name=<span style="display:none">Jackson, Howell Edmunds</span>[[Howell Edmunds Jackson]]
+  |state=[[Tennessee|TN]]
+  |borndied=<span style="display:none">18320408</span>1832–1895
+  |term=<span style="display:none">18930304</span>1893–1895<br><small>({{Age in years|1893|1895}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[Benjamin Harrison|Harrison, B.]]
+  |termination=Death
+}}
+{{U.S. judgeship row
+  |index=55
+  |name=<span style="display:none">White, Edward Douglass</span>[[Edward Douglass White]]†
+  |state=[[Louisiana|LA]]
+  |borndied=<span style="display:none">18451103</span>1845–1921
+  |term=<span style="display:none">18940312</span>1894–1921<br><small>({{Age in years|1894|1921}} years)</small>
+  |chief term=<span style="display:none">19101212</span>1910–1921
+  |senior term=—
+  |appointer=[[Grover Cleveland|Cleveland]] <small>(associate)</small><br />[[William Howard Taft|Taft]] <small>(chief)</small><ref name="aj2cj" group=n>This individual was elevated from associate justice to chief justice. Unlike the inferior courts, the chief justice is separately nominated and subject to a separate confirmation process, regardless of whether or not he or she is already an associate justice.</ref>
+  |termination=Death
+  |rowcolor=#FEF1B5
+}}
+{{U.S. judgeship row
+  |index=56
+  |name=<span style="display:none">Peckham, Rufus Wheeler</span>[[Rufus Wheeler Peckham]]
+  |state=[[New York|NY]]
+  |borndied=<span style="display:none">18381108</span>1838–1909
+  |term=<span style="display:none">18960106</span>1896–1909<br><small>({{Age in years|1896|1909}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[Grover Cleveland|Cleveland]]
+  |termination=Death
+}}
+{{U.S. judgeship row
+  |index=57
+  |name=<span style="display:none">McKenna, Joseph</span>[[Joseph McKenna]]
+  |state=[[California|CA]]
+  |borndied=<span style="display:none">18430810</span>1843–1926
+  |term=<span style="display:none">18980126</span>1898–1925<br><small>({{Age in years|1898|1925}} years)</small>
+  |chief term=1921 <small>(acting)</small><ref group=n>Under 36 Stat. 1152, McKenna acted as chief justice from White's death on May 19, 1921 until Taft took office on July 11, 1921.</ref>
+  |senior term=—
+  |appointer=[[William McKinley|McKinley]]
+  |termination=Retirement
+}}
+{{U.S. judgeship row
+  |index=58
+  |name=<span style="display:none">Holmes, Oliver Wendell Jr.</span>[[Oliver Wendell Holmes, Jr.]]
+  |state=[[Massachusetts|MA]]
+  |borndied=<span style="display:none">18410308</span>1841–1935
+  |term=<span style="display:none">19021208</span>1902–1932<br><small>({{Age in years|1902|1932}} years)</small>
+  |chief term=1930 <small>(acting)</small><ref group=n>Under 36 Stat. 1152, Holmes acted as chief justice from Taft's departure on February 3, 1930 until Hughes took office on February 24, 1930.</ref>
+  |senior term=—
+  |appointer=[[Theodore Roosevelt|Roosevelt, T.]]
+  |termination=Retirement
+}}
+{{U.S. judgeship row
+  |index=59
+  |name=<span style="display:none">Day, William R.</span>[[William R. Day]]
+  |state=[[Ohio|OH]]
+  |borndied=<span style="display:none">18490407</span>1849–1923
+  |term=<span style="display:none">19030302</span>1903–1922<br><small>({{Age in years|1903|1922}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[Theodore Roosevelt|Roosevelt, T.]]
+  |termination=Retirement
+}}
+{{U.S. judgeship row
+  |index=60
+  |name=<span style="display:none">Moody, William Henry</span>[[William Henry Moody]]
+  |state=[[Massachusetts|MA]]
+  |borndied=<span style="display:none">18531223</span>1853–1917
+  |term=<span style="display:none">19061217</span>1906–1910<br><small>({{Age in years|1906|1910}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[Theodore Roosevelt|Roosevelt, T.]]
+  |termination=Retirement<ref group=n>There is some disagreement on how Moody exited office. According to [http://www.fjc.gov/servlet/tGetInfo?jid=1672 the Federal Judicial Center], Moody resigned. According to [http://www.supremecourthistory.org/02_history/subs_timeline/images_associates/051.html the Supreme Court Historical Society], Moody retired. It turns out that the confusion comes from the fact that Moody was allowed to retire by special act of Congress in 1910 due to prolonged ill health. (Moody did not meet the minimum age and service requirements to retire without this waiver.)</ref>
+}}
+{{U.S. judgeship row
+  |index=61
+  |name=<span style="display:none">Lurton, Horace Harmon</span>[[Horace Harmon Lurton]]
+  |state=[[Tennessee|TN]]
+  |borndied=<span style="display:none">18440226</span>1844–1914
+  |term=<span style="display:none">19100103</span>1910–1914<br><small>({{Age in years|1910|1914}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[William Howard Taft|Taft]]
+  |termination=Death
+}}
+{{U.S. judgeship row
+  |index=62
+  |name=<span style="display:none">Hughes, Charles Evans</span>[[Charles Evans Hughes]]
+  |state=[[New York|NY]]
+  |borndied=<span style="display:none">18620411</span>1862–1948
+  |term=<span style="display:none">19101010</span>1910–1916<br><small>({{Age in years|1910|1916}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[William Howard Taft|Taft]]
+  |termination=Resignation<ref group=n name=RutlegeHughes/>
+}}
+{{U.S. judgeship row
+  |index=63
+  |name=<span style="display:none">Van Devanter, Willis</span>[[Willis Van Devanter]]
+  |state=[[Wyoming|WY]]
+  |borndied=<span style="display:none">18590417</span>1859–1941
+  |term=<span style="display:none">19110103</span>1911–1937<br><small>({{Age in years|1911|1937}} years)</small>
+  |chief term=—
+  |senior term=<span style="display:none">19370602</span>1937–1941<br><small>({{Age in years|1937|1941}} years)</small>
+  |appointer=[[William Howard Taft|Taft]]
+  |termination=Retirement
+}}
+{{U.S. judgeship row
+  |index=64
+  |name=<span style="display:none">Lamar, Joseph Rucker</span>[[Joseph Rucker Lamar]]
+  |state=[[Georgia (U.S. state)|GA]]
+  |borndied=<span style="display:none">18571014</span>1857–1916
+  |term=<span style="display:none">19110103</span>1911–1916<br><small>({{Age in years|1911|1916}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[William Howard Taft|Taft]]
+  |termination=Death
+}}
+{{U.S. judgeship row
+  |index=65
+  |name=<span style="display:none">Pitney, Mahlon</span>[[Mahlon Pitney]]
+  |state=[[New Jersey|NJ]]
+  |borndied=<span style="display:none">18580205</span>1858–1924
+  |term=<span style="display:none">19120318</span>1912–1922<br><small>({{Age in years|1912|1922}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[William Howard Taft|Taft]]
+  |termination=Resignation
+}}
+{{U.S. judgeship row
+  |index=66
+  |name=<span style="display:none">McReynolds, James Clark</span>[[James Clark McReynolds]]
+  |state=[[Tennessee|TN]]
+  |borndied=<span style="display:none">18620203</span>1862–1946
+  |term=<span style="display:none">19141012</span>1914–1941<br><small>({{Age in years|1914|1941}} years)</small>
+  |chief term=—
+  |senior term=<span style="display:none">19410131</span>1941–1946<br><small>({{Age in years|1941|1946}} years)</small>
+  |appointer=[[Woodrow Wilson|Wilson]]
+  |termination=Retirement<ref name="senior" group=n>Beginning in the 20th century, many justices who left the Court voluntarily did so by retiring as Supreme Court justices without leaving the federal judiciary altogether. Some databases refer to this as an election by the justice of [[senior status]], although the term "senior status" is used almost exclusively with regard to judges of lower federal courts, not the Supreme Court. A "retired justice", as the status is referred to in the [[United States Code]], is no longer a member of the Supreme Court of the United States, but remains eligible to serve [[by designation]] as a judge of a U.S. Court of Appeals or District Court (and many retired justices have indeed served in these capacities). However, because the justice ceases to be a member of the Supreme Court as of the moment of retirement, the reason for these justices' leaving the Supreme Court is given as "retirement", although the reason for the justice's later leaving the federal judiciary altogether might be a subsequent act of (full) retirement or the justice's death.</ref>
+}}
+{{U.S. judgeship row
+  |index=67
+  |name=<span style="display:none">Brandeis, Louis Dembitz</span>[[Louis Brandeis]]
+  |state=[[Massachusetts|MA]]
+  |borndied=<span style="display:none">18561113</span>1856–1941
+  |term=<span style="display:none">19160605</span>1916–1939<br><small>({{Age in years|1916|1939}} years)</small>
+  |chief term=—
+  |senior term=<span style="display:none">19390213</span>1939–1941<br><small>({{Age in years|1939|1941}} years)</small>
+  |appointer=[[Woodrow Wilson|Wilson]]
+  |termination=Retirement<ref name="senior" group=n />
+}}
+{{U.S. judgeship row
+  |index=68
+  |name=<span style="display:none">Clarke, John Hessin</span>[[John Hessin Clarke]]
+  |state=[[Ohio|OH]]
+  |borndied=<span style="display:none">18570918</span>1857–1945
+  |term=<span style="display:none">19161009</span>1916–1922<br><small>({{Age in years|1916|1922}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[Woodrow Wilson|Wilson]]
+  |termination=Resignation
+}}
+{{U.S. judgeship row
+  |index=69
+  |name=<span style="display:none">Taft, William Howard</span>[[William Howard Taft]]†
+  |state=[[Ohio|OH]]
+  |borndied=<span style="display:none">18570915</span>1857–1930
+  |term=<span style="display:none">19210711</span>1921–1930<br><small>({{Age in years|1921|1930}} years)</small>
+  |chief term=<span style="display:none">19210711</span>1921–1930
+  |senior term=—
+  |appointer=[[Warren G. Harding|Harding]]
+  |termination=Resignation<ref group=n>There is some disagreement on how [[William Howard Taft]] exited office. According to some sources, such as [http://www.supremecourthistory.org/02_history/subs_timeline/images_chiefs/010.html the Supreme Court Historical Society], Taft retired. According to others, such as [http://www.fjc.gov/servlet/tGetInfo?jid=2331 the Federal Judicial Center], Taft resigned.</ref>
+  |rowcolor=#FEF1B5
+}}
+{{U.S. judgeship row
+  |index=70
+  |name=<span style="display:none">Sutherland, George</span>[[George Sutherland]]
+  |state=[[Utah|UT]]
+  |borndied=<span style="display:none">18620325</span>1862–1942
+  |term=<span style="display:none">19221002</span>1922–1938<br><small>({{Age in years|1922|1938}} years)</small>
+  |chief term=—
+  |senior term=<span style="display:none">19380117</span>1938–1942<br><small>({{Age in years|1938|1942}} years)</small>
+  |appointer=[[Warren G. Harding|Harding]]
+  |termination=Retirement<ref name="senior" group=n />
+}}
+{{U.S. judgeship row
+  |index=71
+  |name=<span style="display:none">Butler, Pierce</span>[[Pierce Butler (justice)|Pierce Butler]]
+  |state=[[Minnesota|MN]]
+  |borndied=<span style="display:none">18660317</span>1866–1939
+  |term=<span style="display:none">19230102</span>1923–1939<br><small>({{Age in years|1923|1939}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[Warren G. Harding|Harding]]
+  |termination=Death
+}}
+{{U.S. judgeship row
+  |index=72
+  |name=<span style="display:none">Sanford, Edward Terry</span>[[Edward Terry Sanford]]
+  |state=[[Tennessee|TN]]
+  |borndied=<span style="display:none">18650723</span>1865–1930
+  |term=<span style="display:none">19230219</span>1923–1930<br><small>({{Age in years|1923|1930}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[Warren G. Harding|Harding]]
+  |termination=Death
+}}
+{{U.S. judgeship row
+  |index=73
+  |name=<span style="display:none">Stone, Harlan F.</span>[[Harlan F. Stone]]†
+  |state=[[New York|NY]]
+  |borndied=<span style="display:none">18721011</span>1872–1946
+  |term=<span style="display:none">19250302</span>1925–1946<br><small>({{Age in years|1925|1946}} years)</small>
+  |chief term=<span style="display:none">19410703</span>1941–1946<ref group=n>Under 36 Stat. 1152, Stone acted as chief justice from Hughes's retirement on June 30, 1941 until Stone took the oath of office as chief justice three days later.</ref>
+  |senior term=—
+  |appointer=[[Calvin Coolidge|Coolidge]]&nbsp;<small>(associate)</small><br />[[Franklin D. Roosevelt|Roosevelt, F.]] <small>(chief)</small><ref name="aj2cj" group=n />
+  |termination=Death
+  |rowcolor=#FEF1B5
+}}
+{{U.S. judgeship row
+  |index=62
+  |name=<span style="display:none">Hughes, Charles Evans</span>[[Charles Evans Hughes]]†
+  |state=[[New York|NY]]
+  |borndied=<span style="display:none">18620411</span>1862–1948
+  |term=<span style="display:none">19300224</span>1930–1941<br><small>({{Age in years|1930|1941}} years)</small>
+  |chief term=<span style="display:none">19300224</span>1930–1941
+  |senior term=—
+  |appointer=[[Herbert Hoover|Hoover]]
+  |termination=Retirement
+  |rowcolor=#FEF1B5
+}}
+{{U.S. judgeship row
+  |index=74
+  |name=<span style="display:none">Roberts, Owen </span>[[Owen Roberts]]
+  |state=[[Pennsylvania|PA]]
+  |borndied=<span style="display:none">18750502</span>1875–1955
+  |term=<span style="display:none">19300602</span>1930–1945<br><small>({{Age in years|1930|1945}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[Herbert Hoover|Hoover]]
+  |termination=Resignation
+}}
+{{U.S. judgeship row
+  |index=75
+  |name=<span style="display:none">Cardozo, Benjamin N.</span>[[Benjamin N. Cardozo]]
+  |state=[[New York|NY]]
+  |borndied=<span style="display:none">18700524</span>1870–1938
+  |term=<span style="display:none">19320314</span>1932–1938<br><small>({{Age in years|1932|1938}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[Herbert Hoover|Hoover]]
+  |termination=Death
+}}
+{{U.S. judgeship row
+  |index=76
+  |name=<span style="display:none">Black, Hugo</span>[[Hugo Black]]
+  |state=[[Alabama|AL]]
+  |borndied=<span style="display:none">18860227</span>1886–1971
+  |term=<span style="display:none">19370819</span>1937–1971<br><small>({{Age in years|1937|1971}} years)</small>
+  |chief term=1946 <small>(acting)</small><br>1953 <small>(acting)</small><ref group=n>Under 36 Stat. 1152, Black acted as chief justice from Stone's death on April 22, 1946 until Vinson took office on June 24, 1946.</ref><ref group=n>Under 62 Stat. 869, Black acted as chief justice from Vinson's death on September 8, 1953, until Warren took office on October 5, 1953. The Supreme Court was not in session during this brief period.</ref>
+  |senior term=<span style="display:none">19710917</span>1971–1971<br><small>({{Age in years|1971|1971}} years)</small>
+  |appointer=[[Franklin D. Roosevelt|Roosevelt, F.]]
+  |termination=Retirement<ref name="senior" group=n />
+}}
+{{U.S. judgeship row
+  |index=77
+  |name=<span style="display:none">Reed, Stanley Forman</span>[[Stanley Forman Reed]]
+  |state=[[Kentucky|KY]]
+  |borndied=<span style="display:none">18841231</span>1884–1980
+  |term=<span style="display:none">19380131</span>1938–1957<br><small>({{Age in years|1938|1957}} years)</small>
+  |chief term=—
+  |senior term=<span style="display:none">19570225</span>1957–1980<br><small>({{Age in years|1957|1980}} years)</small>
+  |appointer=[[Franklin D. Roosevelt|Roosevelt, F.]]
+  |termination=Retirement<ref name="senior" group=n />
+}}
+{{U.S. judgeship row
+  |index=78
+  |name=<span style="display:none">Frankfurter, Felix</span>[[Felix Frankfurter]]
+  |state=[[Massachusetts|MA]]
+  |borndied=<span style="display:none">18821115</span>1882–1965
+  |term=<span style="display:none">19390130</span>1939–1962<br><small>({{Age in years|1939|1962}} years)</small>
+  |chief term=—
+  |senior term=<span style="display:none">19620828</span>1962–1965<br><small>({{Age in years|1962|1965}} years)</small>
+  |appointer=[[Franklin D. Roosevelt|Roosevelt, F.]]
+  |termination=Retirement<ref name="senior" group=n />
+}}
+{{U.S. judgeship row
+  |index=79
+  |name=<span style="display:none">Douglas, William O.</span>[[William O. Douglas]]
+  |state=[[Connecticut|CT]]
+  |borndied=<span style="display:none">18981016</span>1898–1980
+  |term=<span style="display:none">19390417</span>1939–1975<br><small>({{Age in years|1939|1975}} years)</small>
+  |chief term=—
+  |senior term=<span style="display:none">19751112</span>1975–1980<br><small>({{Age in years|1975|1980}} years)</small>
+  |appointer=[[Franklin D. Roosevelt|Roosevelt, F.]]
+  |termination=Retirement<ref name="senior" group=n />
+}}
+{{U.S. judgeship row
+  |index=80
+  |name=<span style="display:none">Murphy, Frank</span>[[Frank Murphy]]
+  |state=[[Michigan|MI]]
+  |borndied=<span style="display:none">18900413</span>1890–1949
+  |term=<span style="display:none">19400205</span>1940–1949<br><small>({{Age in years|1940|1949}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[Franklin D. Roosevelt|Roosevelt, F.]]
+  |termination=Death
+}}
+{{U.S. judgeship row
+  |index=81
+  |name=<span style="display:none">Byrnes, James F.</span>[[James F. Byrnes]]
+  |state=[[South Carolina|SC]]
+  |borndied=<span style="display:none">18790502</span>1882–1972
+  |term=<span style="display:none">19410708</span>1941–1942<br><small>({{Age in years|1941|1942}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[Franklin D. Roosevelt|Roosevelt, F.]]
+  |termination=Resignation
+}}
+{{U.S. judgeship row
+  |index=82
+  |name=<span style="display:none">Jackson, Robert H.</span>[[Robert H. Jackson]]
+  |state=[[New York|NY]]
+  |borndied=<span style="display:none">18920213</span>1892–1954
+  |term=<span style="display:none">19410711</span>1941–1954<br><small>({{Age in years|1941|1954}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[Franklin D. Roosevelt|Roosevelt, F.]]
+  |termination=Death
+}}
+{{U.S. judgeship row
+  |index=83
+  |name=<span style="display:none">Rutledge, Wiley Blount</span>[[Wiley Blount Rutledge]]
+  |state=[[Iowa|IA]]
+  |borndied=<span style="display:none">18940720</span>1894–1949
+  |term=<span style="display:none">19430215</span>1943–1949<br><small>({{Age in years|1943|1949}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[Franklin D. Roosevelt|Roosevelt, F.]]
+  |termination=Death
+}}
+{{U.S. judgeship row
+  |index=84
+  |name=<span style="display:none">Burton, Harold Hitz</span>[[Harold Hitz Burton]]
+  |state=[[Ohio|OH]]
+  |borndied=<span style="display:none">18880622</span>1888–1964
+  |term=<span style="display:none">19451001</span>1945–1958<br><small>({{Age in years|1945|1958}} years)</small>
+  |chief term=—
+  |senior term=<span style="display:none">19581013</span>1958–1964<br><small>({{Age in years|1958|1964}} years)</small>
+  |appointer=[[Harry S. Truman|Truman]]
+  |termination=Retirement<ref name="senior" group=n />
+}}
+{{U.S. judgeship row
+  |index=85
+  |name=<span style="display:none">Vinson, Fred M.</span>[[Fred M. Vinson]]†
+  |state=[[Kentucky|KY]]
+  |borndied=<span style="display:none">18900122</span>1890–1953
+  |term=<span style="display:none">19460624</span>1946–1953<br><small>({{Age in years|1946|1953}} years)</small>
+  |chief term=<span style="display:none">19460624</span>1946–1953
+  |senior term=—
+  |appointer=[[Harry S. Truman|Truman]]
+  |termination=Death
+  |rowcolor=#FEF1B5
+}}
+{{U.S. judgeship row
+  |index=86
+  |name=<span style="display:none">Clark, Tom C.</span>[[Tom C. Clark]]
+  |state=[[Texas|TX]]
+  |borndied=<span style="display:none">18990923</span>1899–1977
+  |term=<span style="display:none">19490824</span>1949–1967<br><small>({{Age in years|1949|1967}} years)</small>
+  |chief term=—
+  |senior term=<span style="display:none">19670612</span>1967–1977<br><small>({{Age in years|1967|1977}} years)</small>
+  |appointer=[[Harry S. Truman|Truman]]
+  |termination=Retirement<ref name="senior" group=n />
+}}
+{{U.S. judgeship row
+  |index=87
+  |name=<span style="display:none">Minton, Sherman</span>[[Sherman Minton]]
+  |state=[[Indiana|IN]]
+  |borndied=<span style="display:none">18901020</span>1890–1965
+  |term=<span style="display:none">19491012</span>1949–1956<br><small>({{Age in years|1949|1956}} years)</small>
+  |chief term=—
+  |senior term=<span style="display:none">19561015</span>1956–1965<br><small>({{Age in years|1956|1965}} years)</small>
+  |appointer=[[Harry S. Truman|Truman]]
+  |termination=Retirement<ref name="senior" group=n />
+}}
+{{U.S. judgeship row
+  |index=88
+  |name=<span style="display:none">Warren, Earl</span>[[Earl Warren]]*†
+  |state=[[California|CA]]
+  |borndied=<span style="display:none">18910319</span>1891–1974
+  |term=<span style="display:none">19531005</span>1953–1969<br><small>({{Age in years|1953|1969}} years)</small>
+  |chief term=<span style="display:none">19531005</span>1953–1969
+  |senior term=<span style="display:none">19690623</span>1969–1974<br><small>({{Age in years|1969|1974}} years)</small>
+  |appointer=[[Dwight D. Eisenhower|Eisenhower]]
+  |termination=Retirement<ref name="senior" group=n />
+  |rowcolor=#FEF1B5
+}}
+{{U.S. judgeship row
+  |index=89
+  |name=<span style="display:none">Harlan, John Marshall II</span>[[John Marshall Harlan II]]
+  |state=[[New York|NY]]
+  |borndied=<span style="display:none">18990520</span>1899–1971
+  |term=<span style="display:none">19550328</span>1955–1971<br><small>({{Age in years|1955|1971}} years)</small>
+  |chief term=—
+  |senior term=<span style="display:none">19710923</span>1971–1971<br><small>({{Age in years|1971|1971}} years)</small>
+  |appointer=[[Dwight D. Eisenhower|Eisenhower]]
+  |termination=Retirement<ref name="senior" group=n />
+}}
+{{U.S. judgeship row
+  |index=90
+  |name=<span style="display:none">Brennan, William J.</span>[[William J. Brennan, Jr.]]*
+  |state=[[New Jersey|NJ]]
+  |borndied=<span style="display:none">19060425</span>1906–1997
+  |term=<span style="display:none">19561016</span>1956–1990<br><small>({{Age in years|1956|1990}} years)</small>
+  |chief term=—
+  |senior term=<span style="display:none">19900720</span>1990–1997<br><small>({{Age in years|1990|1997}} years)</small>
+  |appointer=[[Dwight D. Eisenhower|Eisenhower]]
+  |termination=Retirement<ref name="senior" group=n />
+}}
+{{U.S. judgeship row
+  |index=91
+  |name=<span style="display:none">Whittaker, Charles Evans</span>[[Charles Evans Whittaker]]
+  |state=[[Missouri|MO]]
+  |borndied=<span style="display:none">19010222</span>1901–1973
+  |term=<span style="display:none">19570325</span>1957–1962<br><small>({{Age in years|1957|1962}} years)</small>
+  |chief term=—
+  |senior term=<span style="display:none">19620331</span>1962–1965<br><small>({{Age in years|1962|1965}} years)</small>
+  |appointer=[[Dwight D. Eisenhower|Eisenhower]]
+  |termination=Resignation
+}}
+{{U.S. judgeship row
+  |index=92
+  |name=<span style="display:none">Stewart, Potter</span>[[Potter Stewart]]*
+  |state=[[Ohio|OH]]
+  |borndied=<span style="display:none">19150123</span>1915–1985
+  |term=<span style="display:none">19581014</span>1958–1981<br><small>({{Age in years|1958|1981}} years)</small>
+  |chief term=—
+  |senior term=<span style="display:none">19810703</span>1981–1985<br><small>({{Age in years|1981|1985}} years)</small>
+  |appointer=[[Dwight D. Eisenhower|Eisenhower]]
+  |termination=Retirement
+}}
+{{U.S. judgeship row
+  |index=93
+  |name=<span style="display:none">White, Byron</span>[[Byron White]]
+  |state=[[Colorado|CO]]
+  |borndied=<span style="display:none">19170608</span>1917–2002
+  |term=<span style="display:none">19620416</span>1962–1993<br><small>({{Age in years|1962|1993}} years)</small>
+  |chief term=—
+  |senior term=<span style="display:none">19930628</span>1993–2002<br><small>({{Age in years|1993|2002}} years)</small>
+  |appointer=[[John F. Kennedy|Kennedy]]
+  |termination=Retirement<ref name="senior" group=n />
+}}
+{{U.S. judgeship row
+  |index=94
+  |name=<span style="display:none">Goldberg, Arthur</span>[[Arthur Goldberg]]
+  |state=[[Illinois|IL]]
+  |borndied=<span style="display:none">19080808</span>1908–1990
+  |term=<span style="display:none">19621001</span>1962–1965<br><small>({{Age in years|1962|1965}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[John F. Kennedy|Kennedy]]
+  |termination=Resignation
+}}
+{{U.S. judgeship row
+  |index=95
+  |name=<span style="display:none">Fortas, Abe</span>[[Abe Fortas]]
+  |state=[[Tennessee|TN]]
+  |borndied=<span style="display:none">19100619</span>1910–1982
+  |term=<span style="display:none">19651004</span>1965–1969<br><small>({{Age in years|1965|1969}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[Lyndon B. Johnson|Johnson, L.]]
+  |termination=Resignation
+}}
+{{U.S. judgeship row
+  |index=96
+  |name=<span style="display:none">Marshall, Thurgood</span>[[Thurgood Marshall]]
+  |state=[[New York|NY]]
+  |borndied=<span style="display:none">19080702</span>1908–1993
+  |term=<span style="display:none">19671002</span>1967–1991<br><small>({{Age in years|1967|1991}} years)</small>
+  |chief term=—
+  |senior term=<span style="display:none">19911001</span>1991–1993<br><small>({{Age in years|1991|1993}} years)</small>
+  |appointer=[[Lyndon B. Johnson|Johnson, L.]]
+  |termination=Retirement<ref name="senior" group=n />
+}}
+{{U.S. judgeship row
+  |index=97
+  |name=<span style="display:none">Burger, Warren E.</span>[[Warren E. Burger]]†
+  |state=[[Minnesota|MN]]
+  |borndied=<span style="display:none">19070917</span>1907–1995
+  |term=<span style="display:none">19690623</span>1969–1986<br><small>({{Age in years|1969|1986}} years)</small>
+  |chief term=<span style="display:none">19690623</span>1969–1986
+  |senior term=<span style="display:none">19860926</span>1986–1995<br><small>({{Age in years|1986|1995}} years)</small>
+  |appointer=[[Richard Nixon|Nixon]]
+  |termination=Retirement<ref name="senior" group=n />
+  |rowcolor=#FEF1B5
+}}
+{{U.S. judgeship row
+  |index=98
+  |name=<span style="display:none">Blackmun, Harry</span>[[Harry Blackmun]]
+  |state=[[Minnesota|MN]]
+  |borndied=<span style="display:none">19081112</span>1908–1999
+  |term=<span style="display:none">19700609</span>1970–1994<br><small>({{Age in years|1970|1994}} years)</small>
+  |chief term=—
+  |senior term=<span style="display:none">19940803</span>1994–1999<br><small>({{Age in years|1994|1999}} years)</small>
+  |appointer=[[Richard Nixon|Nixon]]
+  |termination=Retirement<ref name="senior" group=n />
+}}
+{{U.S. judgeship row
+  |index=99
+  |name=<span style="display:none">Powell, Lewis F.</span>[[Lewis F. Powell, Jr.]]
+  |state=[[Virginia|VA]]
+  |borndied=<span style="display:none">19070919</span>1907–1998
+  |term=<span style="display:none">19720107</span>1972–1987<br><small>({{Age in years|1972|1987}} years)</small>
+  |chief term=—
+  |senior term=<span style="display:none">19870626</span>1987–1998<br><small>({{Age in years|1987|1998}} years)</small>
+  |appointer=[[Richard Nixon|Nixon]]
+  |termination=Retirement<ref name="senior" group=n />
+}}
+{{U.S. judgeship row
+  |index=100
+  |name=<span style="display:none">Rehnquist, William</span>[[William Rehnquist]]†
+  |state=[[Arizona|AZ]]<br />[[Virginia|VA]]{{#tag:ref|In 1971, Rehnquist was appointed from Arizona,<ref>{{cite book| author = United States. Congress. Senate. Committee on the Judiciary| title = Nominations of William H. Rehnquist and Lewis F. Powell, Jr: Hearings, Ninety-second Congress, first session, on nominations of William H. Rehnquist, of Arizona, and Lewis F. Powell, Jr., of Virginia, to be Associate Justices of the Supreme Court of the United States| url = http://books.google.com/?id=uA42AAAAIAAJ| year = 1971| publisher = U.S. Govt. Print. Off. }}</ref> but in 1986, when elevated to chief justice, he was appointed from Virginia.<ref>{{cite web |url=http://www.loc.gov/law/find/nominations/scalia/debates.pdf |title=Executive Session |work=Congressional Record |page=23803 |date=September 17, 1986}}</ref>|group=n}}
+  |borndied=<span style="display:none">19241001</span>1924–2005
+  |term=<span style="display:none">19720107</span>1972–2005<br><small>({{Age in years|1972|2005}} years)</small>
+  |chief term=<span style="display:none">19860926</span>1986–2005
+  |senior term=—
+  |appointer=[[Richard Nixon|Nixon]] <small>(associate)</small><br />[[Ronald Reagan|Reagan]] <small>(chief)</small><ref name="aj2cj" group=n />
+  |termination=Death
+  |rowcolor=#FEF1B5
+}}
+{{U.S. judgeship row
+  |index=101
+  |name=<span style="display:none">Stevens, John Paul</span>[[John Paul Stevens]]
+  |state=[[Illinois|IL]]
+  |borndied=<span style="display:none">19200420</span>1920–
+  |term=<span style="display:none">19751219</span>1975–2010<br><small>({{Age in years|1975|2010}} years)</small>
+  |chief term=2005 <small>(acting)</small><ref group=n>Under {{usc|28|3}}, Stevens acted as chief justice from Rehnquist's death on September 3, 2005 until Roberts took office on September 29, 2005. The Supreme Court was not in session during this brief period.</ref>
+  |senior term=<span style="display:none">20106029</span>2010–present<br><small>({{Age in years|2010}} years)</small>
+  |appointer=[[Gerald Ford|Ford]]
+  |termination=Retirement
+}}
+{{U.S. judgeship row
+  |index=102
+  |name=<span style="display:none">O'Connor, Sandra Day</span>[[Sandra Day O'Connor]]
+  |state=[[Arizona|AZ]]
+  |borndied=<span style="display:none">19300326</span>1930–
+  |term=<span style="display:none">19810925</span>1981–2006<br><small>({{Age in years|1981|2006}} years)</small>
+  |chief term=—
+  |senior term=<span style="display:none">20060131</span>2006–present<br><small>({{Age in years|2006}} years)</small>
+  |appointer=[[Ronald Reagan|Reagan]]
+  |termination=Retirement
+}}
+{{U.S. judgeship row
+  |index=103
+  |name=<span style="display:none">Scalia, Antonin</span>[[Antonin Scalia]]
+  |state=[[Virginia|VA]]
+  |borndied=<span style="display:none">19360311</span>1936–2016
+  |term=<span style="display:none">19860926</span>1986–2016<br><small>({{Age in years|1986|2016}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[Ronald Reagan|Reagan]]
+  |termination=Death
+}}
+{{U.S. judgeship row
+  |index=104
+  |name=<span style="display:none">Kennedy, Anthony</span>[[Anthony Kennedy]]
+  |state=[[California|CA]]
+  |borndied=<span style="display:none">19360723</span>1936–
+  |term=<span style="display:none">19880218</span>1988–present<br><small>({{Age in years|1988}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[Ronald Reagan|Reagan]]
+  |termination=Currently serving
+  |rowcolor=#ffdfd6
+}}
+{{U.S. judgeship row
+  |index=105
+  |name=<span style="display:none">Souter, David</span>[[David Souter]]
+  |state=[[New Hampshire|NH]]
+  |borndied=<span style="display:none">19390917</span>1939–
+  |term=<span style="display:none">19901009</span>1990–2009<br><small>({{Age in years|1990|2009}} years)</small>
+  |chief term=—
+  |senior term=<span style="display:none">20090629</span>2009–present<br><small>({{Age in years|2009}} years)</small>
+  |appointer=[[George H. W. Bush|Bush, G. H. W.]]
+  |termination=Retirement
+}}
+{{U.S. judgeship row
+  |index=106
+  |name=<span style="display:none">Thomas, Clarence</span>[[Clarence Thomas]]
+  |state=[[Georgia (U.S. state)|GA]]
+  |borndied=<span style="display:none">19480623</span>1948–
+  |term=<span style="display:none">19911023</span>1991–present<br><small>({{Age in years|1991}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[George H. W. Bush|Bush, G. H. W.]]
+  |termination=Currently serving
+  |rowcolor=#ffdfd6
+}}
+{{U.S. judgeship row
+  |index=107
+  |name=<span style="display:none">Ginsburg, Ruth</span>[[Ruth Bader Ginsburg]]
+  |state=[[New York|NY]]
+  |borndied=<span style="display:none">19330315</span>1933–
+  |term=<span style="display:none">19930810</span>1993–present<br><small>({{Age in years|1993}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[Bill Clinton|Clinton]]
+  |termination=Currently serving
+  |rowcolor=#ffdfd6
+}}
+{{U.S. judgeship row
+  |index=108
+  |name=<span style="display:none">Breyer, Stephen</span>[[Stephen Breyer]]
+  |state=[[Massachusetts|MA]]
+  |borndied=<span style="display:none">19380815</span>1938–
+  |term=<span style="display:none">19940803</span>1994–present<br><small>({{Age in years|1994}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[Bill Clinton|Clinton]]
+  |termination=Currently serving
+  |rowcolor=#ffdfd6
+}}
+{{U.S. judgeship row
+  |index=109
+  |name=<span style="display:none">Roberts, John G.</span>[[John G. Roberts]]††
+  |state=[[Maryland|MD]]
+  |borndied=<span style="display:none">19550127</span>1955–
+  |term=<span style="display:none">20050929</span>2005–present<br><small>({{Age in years|2005}} years)</small>
+  |chief term=<span style="display:none">20050929</span>2005–present
+  |senior term=—
+  |appointer=[[George W. Bush|Bush, G. W.]]
+  |termination=Currently serving
+  |rowcolor=#E8CCD7
+}}
+{{U.S. judgeship row
+  |index=110
+  |name=<span style="display:none">Alito, Samuel</span>[[Samuel Alito]]
+  |state=[[New Jersey|NJ]]
+  |borndied=<span style="display:none">19500401</span>1950–
+  |term=<span style="display:none">20060131</span>2006–present<br><small>({{Age in years|2006}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[George W. Bush|Bush, G. W.]]
+  |termination=Currently serving
+  |rowcolor=#ffdfd6
+}}
+{{U.S. judgeship row
+  |index=111
+  |name=<span style="display:none">Sotomayor, Sonia</span>[[Sonia Sotomayor]]
+  |state=[[New York|NY]]
+  |borndied=<span style="display:none">19540625</span>1954–
+  |term=<span style="display:none">20090808</span>2009–present<br><small>({{Age in years|2009}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[Barack Obama|Obama]]
+  |termination=Currently serving
+  |rowcolor=#ffdfd6
+}}
+{{U.S. judgeship row
+  |index=112
+  |name=<span style="display:none">Kagan, Elena</span>[[Elena Kagan]]
+  |state=[[Massachusetts|MA]]
+  |borndied=<span style="display:none">19600428</span>1960–
+  |term=<span style="display:none">20100805</span>2010–present<br><small>({{Age in years|2010}} years)</small>
+  |chief term=—
+  |senior term=—
+  |appointer=[[Barack Obama|Obama]]
+  |termination=Currently serving
+  |rowcolor=#ffdfd6
+}}
+{{end U.S. judgeship}}
